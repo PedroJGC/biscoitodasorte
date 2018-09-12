@@ -1,0 +1,1 @@
+App para estudo de criação de componentes em React Native.
